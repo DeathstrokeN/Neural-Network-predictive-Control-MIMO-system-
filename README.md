@@ -1,1 +1,1 @@
-# Neural-Network-predictive-Control-SISO-system-
+# Neural-Network-predictive-Control-MIMO-system-
